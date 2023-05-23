@@ -1,0 +1,22 @@
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\huhuhu\Documents\Visual Studio project\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\dell\Downloads\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsForms-Mario_Style_Scroll_Game-C-1.0-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
